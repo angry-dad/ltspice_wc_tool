@@ -9,4 +9,4 @@ kivy.deps.sdl2==0.1.17
 Pygments==2.2.0
 requests==2.19.1
 sip==4.19.8
-urllib3==1.23
+urllib3==1.26.5
